@@ -1,0 +1,22 @@
+I am looking for an expert python and smart contract developer,
+preferebly with experience developing scripts that interact
+with Axie Infinity sidechain (Ronin) or equivalent blockchains.
+
+The project will be divided in various deliverables, the first
+one consists on a python script that can be run locally or in a
+notebook in the cloud that retrieves all axie listings in axie
+marketplace in real time by querying or connecting to Ronin blockchain.
+
+Other deliverables will be described and considered down the road.
+Please submit your proposal based on this specific deliverable only.
+It should be a piece of cake for any python/blockchain expert.
+
+References: https://www.notion.so/axie/Axie-Ronin-Developer-Information-623c6756391249b5a64d08cffd25ea02
+
+The output of the code should be a life for each new axie listing
+containing all the relevant information
+id, properties, stats, price, etc.
+If you open any as an example, you will find all these characteristics...
+id, class, breed count, stats, body parts, abilities, etc.
+sorry i said life before but i meant line
+every time an axie is listed, the python code should print a line with all the information of that axie
